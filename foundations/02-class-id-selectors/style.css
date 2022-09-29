@@ -1,0 +1,17 @@
+p {
+  color: rgb(100, 71, 75);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#no2 {
+  color: blue;
+  font-size: 36px;
+}
+.no3 {
+  font-size: 24;
+}
+#no4 {
+  font-weight: blue;
+  background-color: green;
+  font-size: 24px;
+}
+
